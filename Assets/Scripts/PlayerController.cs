@@ -17,9 +17,6 @@ public class PlayerController : MonoBehaviour
 
     void CalculateMovement()
     {
-        if (Input.GetKey(KeyCode.W))
-        {
-            transform.Translate(0, 0, 1);
-        }
+         transform.Translate(0, 0, 1);
     }
 }
