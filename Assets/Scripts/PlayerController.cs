@@ -1,3 +1,4 @@
+using Unity.Services.Lobbies.Models;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -11,6 +12,11 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        CalculateMovement();
+    }
+
+    void CalculateMovement()
+    {
+        transform.Translate(0, 0, 1);
     }
 }

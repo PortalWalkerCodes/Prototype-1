@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/atticusbeard/Documents/Create-With-Code/Prototype 1/Assembly-CSharp.csproj",
+      "projectUniqueName": "/Users/atticusbeard/Documents/Create-With-Code/Prototype1/Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "/Users/atticusbeard/Documents/Create-With-Code/Prototype 1/Assembly-CSharp.csproj",
+      "projectPath": "/Users/atticusbeard/Documents/Create-With-Code/Prototype1/Assembly-CSharp.csproj",
       "packagesPath": "/Users/atticusbeard/.nuget/packages/",
-      "outputPath": "/Users/atticusbeard/Documents/Create-With-Code/Prototype 1/Temp/obj/Assembly-CSharp/",
+      "outputPath": "/Users/atticusbeard/Documents/Create-With-Code/Prototype1/Temp/obj/Assembly-CSharp/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/atticusbeard/.nuget/NuGet/NuGet.Config"
