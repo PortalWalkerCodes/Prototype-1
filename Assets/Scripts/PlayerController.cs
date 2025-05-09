@@ -1,13 +1,11 @@
 using Unity.Services.Lobbies.Models;
 using UnityEngine;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    [SerializeField]
+    int _speed = 20; 
 
     // Update is called once per frame
     void Update()
@@ -17,6 +15,6 @@ public class PlayerController : MonoBehaviour
 
     void CalculateMovement()
     {
-         transform.Translate(0, 0, 1);
+       transform.Translate(_speed * Time.deltaTime * Vector3.forward);
     }
 }

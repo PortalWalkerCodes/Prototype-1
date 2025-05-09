@@ -9,6 +9,16 @@
     "/Applications/Unity/Hub/Editor/6000.1.1f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.2d.aseprite@1.2.4": {
+      "name": "com.unity.2d.aseprite",
+      "displayName": "2D Aseprite Importer",
+      "resolvedPath": "/Users/atticusbeard/Documents/Create-With-Code/Prototype1/Library/PackageCache/com.unity.2d.aseprite@85ecd97bb34e",
+      "fingerprint": "85ecd97bb34ef7d790218acdd7941ef669c08e9a",
+      "editorCompatibility": "6000.1.0a9",
+      "version": "1.2.4",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.ai.navigation@2.0.7": {
       "name": "com.unity.ai.navigation",
       "displayName": "AI Navigation",
@@ -551,6 +561,46 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.2d.common@9.1.0": {
+      "name": "com.unity.2d.common",
+      "displayName": "2D Common",
+      "resolvedPath": "/Users/atticusbeard/Documents/Create-With-Code/Prototype1/Library/PackageCache/com.unity.2d.common@2df623fe8b00",
+      "fingerprint": "2df623fe8b00fbc13c20621a43a73b66163de860",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "9.1.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "/Users/atticusbeard/Documents/Create-With-Code/Prototype1/Library/PackageCache/com.unity.2d.sprite@8e227b7a8e02",
+      "fingerprint": "8e227b7a8e02901a84d9678f982e6ae0efa3f5bb",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.2d.tilemap@1.0.0": {
+      "name": "com.unity.2d.tilemap",
+      "displayName": "2D Tilemap Editor",
+      "resolvedPath": "/Users/atticusbeard/Documents/Create-With-Code/Prototype1/Library/PackageCache/com.unity.2d.tilemap@b53398a6d6ff",
+      "fingerprint": "b53398a6d6ff91a97656fb2514b08cef650a45f8",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.mathematics@1.3.2": {
+      "name": "com.unity.mathematics",
+      "displayName": "Mathematics",
+      "resolvedPath": "/Users/atticusbeard/Documents/Create-With-Code/Prototype1/Library/PackageCache/com.unity.mathematics@8017b507cc74",
+      "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.2",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.services.deployment.api@1.1.2": {
       "name": "com.unity.services.deployment.api",
       "displayName": "Deployment API",
@@ -588,16 +638,6 @@
       "fingerprint": "92d1d09a72ed696fa23fd76c675b29d211664b50",
       "editorCompatibility": "2020.3.0a1",
       "version": "3.1.0",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.mathematics@1.3.2": {
-      "name": "com.unity.mathematics",
-      "displayName": "Mathematics",
-      "resolvedPath": "/Users/atticusbeard/Documents/Create-With-Code/Prototype1/Library/PackageCache/com.unity.mathematics@8017b507cc74",
-      "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.3.2",
       "source": "registry",
       "testable": false
     },
